@@ -61,7 +61,8 @@
 
 <br>
 
-[적당한 일상's Blog](https://gane.tistory.com/)
+[적당한 일상's Blog]
+<!-- (https://gane.tistory.com/) -->
 <br><br>
 
 <!-- Footer banner -->
