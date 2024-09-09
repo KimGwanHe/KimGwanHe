@@ -47,7 +47,7 @@
 <div align="center">
   
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)    <br>
-[Notion 바로가기]()
+[Notion 바로가기](https://www.notion.so/Moderate-19ff0d9d82594d3b9b44ec77f742a042?pvs=4)
 
 </div>
 <hr>
@@ -61,7 +61,7 @@
 
 <br>
 
-[적당한 일상's Blog]
+<!-- [적당한 일상's Blog] -->
 <!-- (https://gane.tistory.com/) -->
 <br><br>
 
